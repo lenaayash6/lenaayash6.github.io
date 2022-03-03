@@ -35,14 +35,14 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 # Experiences
 author_work_experiences:
             - company_name: SAMD Solutions
-            #  company_logo: 
+              company_logo: 
               company_url: https://samd-solutions.de/
               designation: Software Developer
               description: Worked on Wordpress website
               visibility: true
             - company_name: Continuum Trading FZE
-             # company_logo: microsoft.png
-             # company_url: https://microsoft.com
+              company_logo: microsoft.png
+              company_url: https://microsoft.com
               designation: Full-Stack Web Developer
               description: Worked on various Educational Websites
               visibility: true
