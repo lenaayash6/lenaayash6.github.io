@@ -2,7 +2,7 @@ title: Lena Ayash
 subtitle: A Personal website for Lena Ayash
 description: >- # this means to ignore newlines until "baseurl:"
  some text about lena
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://lenaayash6.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -15,8 +15,8 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+    #- text: Shop
+    # url : /shop
     - text: Contact
       url : /contact
 
@@ -74,12 +74,12 @@ twitter_username: lenaayash6
 github_username:  lenaayash6
 facebook_username: lenaayash6
 linkedin_username: lenaayash6
-behance_username: 
+#behance_username: 
 instagram_username: lenaayash6
 medium_username: lenaayash6
 telegram_username: lenaayash6
-dribbble_username: 
-flickr_username: 
+#dribbble_username: 
+#flickr_username: 
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
